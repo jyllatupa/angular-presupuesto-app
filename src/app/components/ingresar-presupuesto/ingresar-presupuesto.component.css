@@ -1,0 +1,17 @@
+.text-center {
+  color: white;
+}
+
+input {
+  text-align: center;
+}
+
+button {
+  width: 100%;
+}
+
+.span-error{
+  /* padding-bottom: 5px;
+  padding-top: 5px; */
+  width: 100%;
+}
